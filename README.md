@@ -24,12 +24,15 @@
 ### 📊 GitHub 数据
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhls&show_icons=true&theme=tokyonight&hide_border=true" alt="Halen's GitHub stats" />
+</div>
 
-![Halen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhls&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhls&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhls&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=HTML" alt="Top Langs" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hhls&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhls&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 📫 找到我
